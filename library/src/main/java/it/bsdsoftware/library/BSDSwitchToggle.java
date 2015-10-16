@@ -4,6 +4,8 @@ import android.content.Context;
 import android.support.v7.widget.SwitchCompat;
 import android.util.AttributeSet;
 
+import it.bsdsoftware.bsdswitch.R;
+
 /**
  * Created by Simone on 16/10/15.
  */
